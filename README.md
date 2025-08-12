@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nathasha Nethmini</h1>
-![My Cool Image](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathasha-nethmini&label=Profile%20views&color=0e75b6&style=flat" alt="nathasha-nethmini" /> </p>
