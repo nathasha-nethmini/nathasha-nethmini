@@ -1,10 +1,10 @@
-<!-- Animated Typing Header -->
+<!-- Premium Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nathasha+Nethmini+%F0%9F%91%8B;Computer+Science+%26+Engineering+Undergrad;Full-Stack+Developer+%7C+Designer;Machine+Learning+Enthusiast;Artist's+Heart,+Engineer's+Brain" alt="Typing SVG" />
+  <img src="./banner.svg" alt="Nathasha Nethmini Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Software+Engineering+Enthusiast;Exploring+Machine+Learning+%26+Systems;Undergraduate+@+University+of+Moratuwa" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,20 +22,10 @@
 
 ## 🌟 About Me
 
-I am an undergraduate **Computer Science and Engineering** student at the **University of Moratuwa, Sri Lanka**. I am deeply passionate about software engineering, artificial intelligence, and building technology that solves real-world problems.
+I am an undergraduate **Computer Science and Engineering** student at the **University of Moratuwa, Sri Lanka**. I am deeply passionate about software engineering, artificial intelligence, and building practical solutions to real-world problems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;Writing+elegant+code;Solving+complex+problems" />
-</p>
-
-### 🛠️ What I Do
-My journey in computing spans multiple disciplines. I love diving deep into how systems work, from low-level architecture to modern web apps and AI:
-- 🧠 **Machine Learning & AI** — Data processing, model training, and digit recognition.
-- ⚙️ **Systems & Backend** — Backend development, databases, computer architecture, and systems programming.
-- ☁️ **Current Focus** — Expanding into full-stack development, cloud technologies, DevOps, and software quality engineering.
-
-### 🎨 The "Artist's Heart"
-Beyond the screen, I have a strong interest in creativity and design. Whether it's drawing, singing, or exploring new ideas, these passions help me approach technical challenges from fresh perspectives. 
+I am currently exploring areas such as machine learning, backend development, databases, systems programming, and computer architecture:
+- 🧠 **Machine Learning & AI** — Building ML projects, data preprocessing, model training and evaluation, and handwritten digit recognition.
 
 > *Good software is not only about writing code but also about understanding users, designing meaningful solutions, and creating positive experiences.*
 
@@ -45,18 +35,87 @@ Beyond the screen, I have a strong interest in creativity and design. Whether it
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
-  <p>Languages, Frameworks, and Tools I use to build things:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,mysql,mongodb,git,github,photoshop,figma&perline=7" alt="Tech Stack" />
-  </a>
-</div>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td align="right" width="200"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,cpp,c" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="200"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="200"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="200"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right" width="200"><b>Tools & Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,photoshop,figma" alt="Tools" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
+## 🚀 Focus & Goals
+
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🛠️ Currently Working On</h3>
+      <ul>
+        <li>Coursework and academic projects at the University of Moratuwa.</li>
+        <li>Developing practical, user-centric software solutions.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌱 Currently Learning</h3>
+      <ul>
+        <li>Full-Stack Development</li>
+        <li>Cloud Computing & DevOps</li>
+        <li>Software Quality Engineering</li>
+        <li>AI-powered Software Engineering</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💡 Areas of Interest</h3>
+      <ul>
+        <li>Machine Learning & Artificial Intelligence</li>
+        <li>Backend Development & Databases</li>
+        <li>Systems Programming & Computer Architecture</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>✨ Fun Facts</h3>
+      <ul>
+        <li>I believe in having an artist's heart with an engineer's brain.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <h3>🚀 Always learning. Always building.</h3>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathasha-nethmini&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✨ "Wavelengths of music, strokes of art, and lines of code." ✨</h3>
+  <p>🚀 <i>Always learning. Always building.</i></p>
   <p><b>My ultimate goal is to become a versatile software engineer who combines strong technical foundations with creativity to build reliable, intelligent, and impactful systems.</b></p>
 </div>
