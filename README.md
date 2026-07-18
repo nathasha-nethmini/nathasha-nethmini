@@ -20,7 +20,7 @@
 
 <br/>
 
-## 🌟 About Me
+## About Me
 
 I am an undergraduate Computer Science and Engineering student at the University of Moratuwa, Sri Lanka. Driven by a passion for solving real-world problems, I actively explore software engineering, artificial intelligence, backend development, database systems, systems programming, and computer architecture. By focusing on hands-on learning and practical projects, I enjoy connecting low-level system internals with high-level AI-driven applications to build reliable, efficient, and user-centric technology.
 
@@ -30,7 +30,7 @@ I am an undergraduate Computer Science and Engineering student at the University
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
@@ -59,19 +59,19 @@ I am an undergraduate Computer Science and Engineering student at the University
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 🚀 Focus & Goals
+## Focus & Goals
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr>
     <td valign="top" width="50%">
-      <h3>🛠️ Currently Working On</h3>
+      <h3>Currently Working On</h3>
       <ul>
         <li>Coursework and academic projects at the University of Moratuwa.</li>
         <li>Developing practical, user-centric software solutions.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🌱 Currently Learning</h3>
+      <h3>Currently Learning</h3>
       <ul>
         <li>Full-Stack Development</li>
         <li>Cloud Computing & DevOps</li>
@@ -82,7 +82,7 @@ I am an undergraduate Computer Science and Engineering student at the University
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>💡 Areas of Interest</h3>
+      <h3>Areas of Interest</h3>
       <ul>
         <li>Machine Learning & Artificial Intelligence</li>
         <li>Software Engineering Practices & Design Patterns</li>
@@ -91,7 +91,7 @@ I am an undergraduate Computer Science and Engineering student at the University
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>✨ Fun Facts</h3>
+      <h3>Fun Facts</h3>
       <ul>
         <li>I believe in having "an artist's heart with an engineer's brain," blending logical structure with creative problem-solving.</li>
         <li>I love drawing and creative design as my favorite forms of expression.</li>
@@ -104,30 +104,30 @@ I am an undergraduate Computer Science and Engineering student at the University
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 🔍 What I'm Looking For
+## What I'm Looking For
 
 I am eager to apply my skills and grow through practical challenges. I am currently seeking:
-- 💼 **Software Engineering Internships** to collaborate and learn from industry professionals.
-- 🤝 **Open-Source Contributions** & collaborative development projects.
-- 🔬 **Research Opportunities** combining software systems and artificial intelligence.
-- 🚀 Opportunities to engage in **real-world projects** that deliver meaningful impact.
+- **Software Engineering Internships** to collaborate and learn from industry professionals.
+- **Open-Source Contributions** & collaborative development projects.
+- **Research Opportunities** combining software systems and artificial intelligence.
+- Opportunities to engage in **real-world projects** that deliver meaningful impact.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathasha-nethmini&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nathasha-nethmini&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=tokyonight" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>✨ "Wavelengths of music, strokes of art, and lines of code." ✨</h3>
-  <p>🚀 <i>Always learning. Always building.</i></p>
+  <h3>"Wavelengths of music, strokes of art, and lines of code."</h3>
+  <p><i>Always learning. Always building.</i></p>
   <p><b>My ultimate goal is to become a versatile software engineer who combines strong technical foundations with creativity to build reliable, intelligent, and impactful systems.</b></p>
 </div>
