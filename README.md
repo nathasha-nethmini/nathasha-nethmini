@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Software+Engineering+Enthusiast;Exploring+Machine+Learning+%26+Systems;Undergraduate+@+University+of+Moratuwa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Software+Engineering+Enthusiast;Exploring+Machine+Learning+%26+Systems;Computer+Science+%26+Engineering+Undergraduate+%7C+University+of+Moratuwa" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,10 +22,7 @@
 
 ## 🌟 About Me
 
-I am an undergraduate **Computer Science and Engineering** student at the **University of Moratuwa, Sri Lanka**. I am deeply passionate about software engineering, artificial intelligence, and building practical solutions to real-world problems.
-
-I am currently exploring areas such as machine learning, backend development, databases, systems programming, and computer architecture:
-- 🧠 **Machine Learning & AI** — Building ML projects, data preprocessing, model training and evaluation, and handwritten digit recognition.
+I am an undergraduate Computer Science and Engineering student at the University of Moratuwa, Sri Lanka. Driven by a passion for solving real-world problems, I actively explore software engineering, artificial intelligence, backend development, database systems, systems programming, and computer architecture. By focusing on hands-on learning and practical projects, I enjoy connecting low-level system internals with high-level AI-driven applications to build reliable, efficient, and user-centric technology.
 
 > *Good software is not only about writing code but also about understanding users, designing meaningful solutions, and creating positive experiences.*
 
@@ -38,23 +35,23 @@ I am currently exploring areas such as machine learning, backend development, da
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td align="right" width="200"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,java,cpp,c" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="right" width="200"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="right" width="200"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,py,fastapi" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="right" width="200"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" /></td>
   </tr>
   <tr>
     <td align="right" width="200"><b>Tools & Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,photoshop,figma" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,figma" alt="Tools" /></td>
   </tr>
 </table>
 
@@ -88,14 +85,16 @@ I am currently exploring areas such as machine learning, backend development, da
       <h3>💡 Areas of Interest</h3>
       <ul>
         <li>Machine Learning & Artificial Intelligence</li>
-        <li>Backend Development & Databases</li>
+        <li>Software Engineering Practices & Design Patterns</li>
+        <li>Backend Development & Database Systems</li>
         <li>Systems Programming & Computer Architecture</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h3>✨ Fun Facts</h3>
       <ul>
-        <li>I believe in having an artist's heart with an engineer's brain.</li>
+        <li>I believe in having "an artist's heart with an engineer's brain," blending logical structure with creative problem-solving.</li>
+        <li>I love drawing and creative design as my favorite forms of expression.</li>
       </ul>
     </td>
   </tr>
@@ -105,10 +104,23 @@ I am currently exploring areas such as machine learning, backend development, da
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
+## 🔍 What I'm Looking For
+
+I am eager to apply my skills and grow through practical challenges. I am currently seeking:
+- 💼 **Software Engineering Internships** to collaborate and learn from industry professionals.
+- 🤝 **Open-Source Contributions** & collaborative development projects.
+- 🔬 **Research Opportunities** combining software systems and artificial intelligence.
+- 🚀 Opportunities to engage in **real-world projects** that deliver meaningful impact.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathasha-nethmini&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=tokyonight" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
