@@ -30,8 +30,6 @@
 
 ## Hello World
 
-## Hello World 👋
-
 I'm Nathasha Nethmini, a Computer Science and Engineering undergraduate at the University of Moratuwa, Sri Lanka. I am interested in software engineering, artificial intelligence, backend development, and computer systems. I enjoy learning through building projects and exploring how technology can be used to create reliable and meaningful solutions.
 
 ---
