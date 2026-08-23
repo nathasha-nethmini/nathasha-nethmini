@@ -1,4 +1,3 @@
-<!-- Premium Animated Banner -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
@@ -9,40 +8,45 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Software+Engineering+Enthusiast;Exploring+Machine+Learning+%26+Systems;Computer+Science+%26+Engineering+Undergraduate+%7C+University+of+Moratuwa">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Software+Engineering+Enthusiast;Exploring+Machine+Learning+%26+Systems;Computer+Science+%26+Engineering+Undergraduate+%7C+University+of+Moratuwa">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Software+Engineering+Enthusiast;Exploring+Machine+Learning+%26+Systems;Computer+Science+%26+Engineering+Undergraduate+%7C+University+of+Moratuwa">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer+%26+Systems+Explorer;Computer+Science+Undergrad+%40+UoM">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer+%26+Systems+Explorer;Computer+Science+Undergrad+%40+UoM">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer+%26+Systems+Explorer;Computer+Science+Undergrad+%40+UoM">
   </picture>
 </div>
 
 <div align="center">
-  <a href="mailto:03nethmini@gmail.com"><img src="https://img.shields.io/badge/Email-03nethmini%40gmail.com-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nathasha-nethmini&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <a href="mailto:nathashan.23@cse.mrt.ac.lk">
+    <img src="https://img.shields.io/badge/Email-Connect-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathasha-nethmini-a70b103a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nathasha-nethmini">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7s1/7s1/main/assets/developer.gif" width="400" alt="Animated coding illustration" />
+  <i><b>"Wavelengths of music, strokes of art, and lines of code."</b></i><br>
+  🎓 Computer Science & Engineering Undergraduate @ University of Moratuwa
 </div>
 
 <br/>
 
-## Hello World
+## About Me
+<img align="right" src="https://raw.githubusercontent.com/7s1/7s1/main/assets/developer.gif" width="320" alt="Developer GIF" />
 
-I'm Nathasha Nethmini, a Computer Science and Engineering undergraduate at the University of Moratuwa, Sri Lanka. I am interested in software engineering, artificial intelligence, backend development, and computer systems. I enjoy learning through building projects and exploring how technology can be used to create reliable and meaningful solutions.
+- I’m currently building **CodeSage AI**, an AI-powered technical debt analytics system, and **OnTime G2**, a real-time transit telemetry pipeline.
+- I’m deeply exploring **Applied Machine Learning**, **Distributed Systems**, and **Agentic AI**.
+- Recognized on the **Dean's List** for academic excellence (CGPA: 3.35/4.00).
+- Ask me about **Python, React, FastAPI, Kafka, and Machine Learning workflows**.
+- Reach out to me for **Software Engineering Internships, Open-Source Collaborations, or Research Opportunities**.
 
----
+<br/>
 
-### What I'm up to right now:
-- **Studying:** Computer Science & Engineering at UoM Sri Lanka.
-- **Exploring:** Machine Learning & AI, backend systems, database management, and computer architecture.
-- **Learning:** Full-Stack development, DevOps pipelines, and AI-driven software engineering.
-- **Looking for:** Open-source collaborations, research opportunities, and software engineering internships.
-
----
-
-### My Toolbox
+## Technologies & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -50,26 +54,53 @@ I'm Nathasha Nethmini, a Computer Science and Engineering undergraduate at the U
   </a>
 </div>
 
----
+<br/>
 
-### GitHub Activity
+## Featured Projects
+
+<details>
+<summary><b>CodeSage AI – Technical Debt Analytics Dashboard</b> <i>(Python, Next.js, FastAPI, PostgreSQL, Celery, Redis)</i></summary>
+<br>
+An AI-powered technical debt analytics system combining static analysis (Tree-sitter, CK), repository mining (PyDriller), and an SVM SATD classifier to identify and prioritize technical debt. Built asynchronous workflows with FastAPI and Celery.
+</details>
+
+<details>
+<summary><b>OnTime G2 – Real-Time Transit Analytics</b> <i>(Apache Kafka, Apache Flink, Docker, XGBoost, Python)</i></summary>
+<br>
+Designed a real-time public transport tracking and ETA prediction system using event-driven streaming with Kafka and Flink. Utilized XGBoost for ETA generation and displayed live telemetry on an interactive map.
+</details>
+
+<details>
+<summary><b>Steamnoodles Feedback Agent</b> <i>(LLaMA 3, LangChain, Flask, Pandas)</i></summary>
+<br>
+An AI-powered restaurant feedback system using LLaMA 3 for sentiment analysis. Classifies feedback and generates context-aware responses, visualized on a Flask backend.
+</details>
+
+<details>
+<summary><b>Cook With Ashi</b> <i>(MERN Stack, Twilio API)</i></summary>
+<br>
+Full-stack application connecting customers with home-based food providers. Integrated Twilio WhatsApp API for real-time communication.
+</details>
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=default">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=default" height="125">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=default" height="150">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=tokyonight&hide=jupyter%20notebook">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=default&hide=jupyter%20notebook">
-    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=default&hide=jupyter%20notebook" height="125">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=default&hide=jupyter%20notebook" height="150">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>"Wavelengths of music, strokes of art, and lines of code."</h3>
-  <p><i>Always learning. Always building.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=nathasha-nethmini&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Views" />
 </div>
