@@ -87,11 +87,7 @@ Full-stack application connecting customers with home-based food providers. Inte
 ## GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=default">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathasha-nethmini&theme=default" height="150">
-  </picture>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=tokyonight&hide=jupyter%20notebook">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=nathasha-nethmini&layout=compact&theme=default&hide=jupyter%20notebook">
